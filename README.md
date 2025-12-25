@@ -8,6 +8,7 @@
 5. [JavaScript Functionality (script.js)](#javascript-functionality)
 6. [How the Website Works](#how-the-website-works)
 7. [Features & Animations](#features--animations)
+8. [Live website Link](https://sumit1004.netlify.app/)
 
 ---
 
@@ -1676,3 +1677,4 @@ This portfolio website is a modern, interactive showcase that demonstrates:
 - **Performance**: Optimized animations, responsive design, semantic HTML
 
 The website successfully combines visual appeal with functionality, creating an engaging experience for visitors.
+
